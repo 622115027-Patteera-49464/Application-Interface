@@ -36,7 +36,7 @@ class _MainPageState extends State<MainPage> {
         bottomNavigationBar: Container(
             decoration: BoxDecoration(
                 border: Border(
-                    top: BorderSide(color: Colors.black26, width: 0.25))),
+                    top: BorderSide(color: Colors.black26, width: 0.3))),
             child: Theme(
               data: ThemeData(
                   splashColor: Colors.transparent,
